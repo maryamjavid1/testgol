@@ -18,4 +18,4 @@ class daneshjo:
         self.code = int(input("shomare daneshjoi:"))
         self.grade = int(input("term chand:"))
     def __str__(self):
-        return
+        return f"d"
