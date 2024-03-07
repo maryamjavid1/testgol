@@ -1,0 +1,42 @@
+<persen>
+    <user>
+
+        <name>eraj</name>
+        <sport>mptor savari</sport>
+        <color>zard</color>
+        <job>baz neshaste</job>
+
+    </user>
+    <user>
+
+        <name>mahvash</name>
+        <sport>piyade ravi</sport>
+        <color>banafsh</color>
+        <job>khane dar</job>
+
+    </user>
+    <user>
+
+        <name>hosein</name>
+        <sport>fotbal</sport>
+        <color>ghermez</color>
+        <job>azad</job>
+
+    </user>
+    <user>
+
+        <name>mohsen</name>
+        <sport>docharkhe savari</sport>
+        <color>ghahvei</color>
+        <job>barname nevis</job>
+
+    </user>
+    <user>
+
+        <name>hadis</name>
+        <sport>shena</sport>
+        <color>sabz</color>
+        <job>daneshjo</job>
+        
+    </user>
+</persen>
