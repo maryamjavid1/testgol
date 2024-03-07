@@ -12,7 +12,7 @@ class Student:
         self.grade = float(input('enter your grade = '))
 
     def __str__(self):
-        return f'daneshjoo name : {self.fname} {self.lname}'
+        return f'Student name : {self.fname} {self.lname}'
 
     def is_fail(self):
         return False if self.grade >= 12 else True
